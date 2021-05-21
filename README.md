@@ -1,1 +1,74 @@
 # hot-backend-dudes
+
+# JAVA 8
+- ## COLECTIONS
+- ## GENERICS
+- ## FUNCTIONAL INTERFACES
+- ## THREADS
+
+# JAVA 11
+
+# NEWEST JAVA FEATURES
+
+---
+
+# JDBC
+# JPA AND ORM
+
+---
+
+# SPRING
+- ## FRAMEWORK (CORE)
+- ## BOOT
+- ## CLOUD
+
+---
+
+# DATABASES
+## RDBMS
+## NOSQL
+
+---
+
+# ALGORITMS
+- ## BIG O
+
+---
+
+# DESIGN PATTERS
+
+---
+
+# DEVOPS
+- ## JENKINS
+- ## SPINNAKER
+- ## DOCKER
+- ## KUBERNATES
+- ## TERRAFORM
+
+---
+
+# MONITORING
+- ## SPLUNK
+- ## DATADOG
+- ## NEWRELIC
+- ## SPLUNK
+
+---
+
+# AWS
+- ## EC2
+- ## ECS
+- ## LAMBDA
+- ## S3
+
+---
+
+# STREAMING & MESSAGE BROKER
+- ## KAFKA
+- ## MQ RABIT
+
+---
+
+# AGILE
+- ## SCRUM
