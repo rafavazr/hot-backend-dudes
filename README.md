@@ -1,5 +1,3 @@
-# hot-backend-dudes
-
 # JAVA 8
 - ## COLECTIONS
 - ## GENERICS
